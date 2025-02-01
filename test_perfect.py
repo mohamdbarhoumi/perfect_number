@@ -18,4 +18,3 @@ def test_edge_cases():
     # Test edge cases
     assert is_perfect(0) == False   # 0 is not perfect
     assert is_perfect(-6) == False  # Negative numbers are not perfect
-print("hello there my name is mohamed")
