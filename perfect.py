@@ -16,3 +16,4 @@ else:
     print(f"{number} is not a perfect number.")
 
 print("my name is mohamed")
+print("i am a software engineering student")
