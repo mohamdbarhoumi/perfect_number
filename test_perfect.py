@@ -1,5 +1,5 @@
 import pytest
-from perfect import is_perfect  
+from perfect import is_perfect  # Replace 'your_module' with the actual filename (without the .py extension)
 
 def test_perfect_number():
     # Test known perfect numbers
@@ -18,3 +18,4 @@ def test_edge_cases():
     # Test edge cases
     assert is_perfect(0) == False   # 0 is not perfect
     assert is_perfect(-6) == False  # Negative numbers are not perfect
+print("hello there my name is mohamed")
