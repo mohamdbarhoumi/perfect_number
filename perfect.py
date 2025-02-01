@@ -14,3 +14,5 @@ if is_perfect(number):
     print(f"{number} is a perfect number.")
 else:
     print(f"{number} is not a perfect number.")
+
+print("my name is mohamed")
